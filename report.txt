@@ -1,0 +1,8 @@
+Number of request: 100
+Number of request hit to apiExp:        1
+Number of request hit to apicontrol:        1
+Number of request hit to api: 98
+Number of request: 1000
+Number of request hit to apiExp:        9
+Number of request hit to apicontrol:        2
+Number of request hit to api: 989

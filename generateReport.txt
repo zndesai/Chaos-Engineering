@@ -1,0 +1,10 @@
+Number of request: 100
+Number of request that were gracefully handled:       20
+Number of request hit to apiExp:        2
+Number of request hit to apicontrol:        1
+Number of request hit to api: 97
+Number of request: 1000
+Number of request that were gracefully handled:      125
+Number of request hit to apiExp:        7
+Number of request hit to apicontrol:        3
+Number of request hit to api: 990
